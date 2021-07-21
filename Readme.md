@@ -16,5 +16,9 @@ Project is created with:
 	
 ## Setup
 To run this project, 
-1. Install all the versions of required technologies.
-2. 
+1. Download the all folders and files from https://github.com/mhiremath07/ThinkBridge
+2. Install all the versions of required technologies.
+3. Go to https://github.com/mhiremath07/ThinkBridge/tree/master/MachineTask2/Db and execute the script.sql in MS SQL to generate the database and table structure.
+4. Double click on the solution file of the project to load the project.
+5. After loading the project click on Build=>Build Solution.
+6. Then Run the project.
