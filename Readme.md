@@ -4,19 +4,17 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Displys the list of products.
+This project is simple example to store and modify data to database(CRUD). 
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* .Net version: 4.7.2
+* MVC version: 5.2.7.0
+* Entity framework version: 6.0
+* MS SQL Server: 2014
 	
 ## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+To run this project, 
+1. Install all the versions of required technologies.
+2. 
